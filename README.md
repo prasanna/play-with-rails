@@ -1,1 +1,3 @@
-# play-with-rails
+# Just playing with Rails
+
+
